@@ -1,0 +1,19 @@
+
+  .heading {
+     background-color: aqua;
+     text-decoration: underline;
+     text-transform: uppercase;
+     text-align: center;
+  }
+  input {
+    border-color: transparent;
+    outline: none;
+  }
+   tr th {
+   
+    font-size: 10px;
+  }
+ section{
+  float: left;
+  width: 100%;
+ }
